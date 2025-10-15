@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-13 18:18:19,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2025-10-15 18:17:26,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
@@ -30,12 +30,11 @@ CCTV-8,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226008$订阅源
 CCTV-8,https://mgtv.ottiptv.cc/mg/624878356.m3u8?token=afe48916b07b879975b99aef80c447d0b867e9e720473054b3c13ababa253922c099a02c093e76e2f86d838fc89789b259edbaa2df42da6e23ed1b7e7b65267f2ebd02b3d7465a7f18af5925c9&tm=1757387428&sign=24939c774ad7694e7fbf24e9ae47f642$订阅源
 CCTV-8,https://cc06.tv12.xyz/9.m3u8$订阅源
 CCTV-8,https://jzb.wwkejishe.top/?id=586$订阅源
-CCTV-8,https://smart.pendy.dpdns.org/Smart.php?id=cctv8hd$订阅源
-CCTV-8,https://smart.pendy.dpdns.org/Smart.php?id=cctv8hd$订阅源
 CCTV-9,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225734$订阅源
 CCTV-9,https://mgtv.ottiptv.cc/mg/673168140.m3u8?token=60e8ab435821bdfe6b921cf2eb6d9ff66b3c26f1588eb85aa005422e783722555f9e86e4662579a1ad132733c06fcc0322435b6748325ae6bc100a53f2e00d4a9091c6ff43762b4a669bc27417&tm=1757387428&sign=b9489a92706faead9cfd1be36f43a701$订阅源
 CCTV-9,https://cc06.tv12.xyz/10.m3u8$订阅源
 CCTV-9,https://jzb.wwkejishe.top/?id=587$订阅源
+CCTV-9,https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd$订阅源
 CCTV-9,https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd$订阅源
 CCTV-10,https://mgtv.ottiptv.cc/mg/624878405.m3u8?token=caa170b7cab721ce49bc50b69eaaf8cacf19071d92f8f4e6e93fa12c53a549c9c9067a5d501cf41811a575dad3cab6117bb732ac303198449d059d6c22da3a4631d2ede535c75ffe0522082268&tm=1757387428&sign=724c99ea6d84a5be2b0a5adf3b20467c$订阅源
 CCTV-10,https://cc06.tv12.xyz/11.m3u8$订阅源
@@ -52,17 +51,17 @@ CCTV-12,https://cc06.tv12.xyz/13.m3u8$订阅源
 CCTV-12,https://smart.pendy.dpdns.org/Smart.php?id=cctv12$订阅源
 CCTV-13,https://mgtv.ottiptv.cc/mg/608807423.m3u8?token=b7b7a1eee882f2820196334a329c3e21a6a1d368f92f0ec29a2a0ae14bdc52e9833a705e6cd1c392ebe554f7fb42d9b76be0999e7643920eeb703309ee58f6715ef2ea5bf34d98b300a1604f54&tm=1757387428&sign=f43935283ccf3bb2471780af9fec937f$订阅源
 CCTV-13,https://cc06.tv12.xyz/14.m3u8$订阅源
-CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
-CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
-CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$订阅源
-CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$订阅源
-CCTV-13,https://jzb.wwkejishe.top/?id=591$订阅源
 CCTV-13,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8$订阅源
+CCTV-13,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8$订阅源
+CCTV-13,https://jzb.wwkejishe.top/?id=591$订阅源
+CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8$订阅源
+CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8$订阅源
+CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
 CCTV-14,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225732$订阅源
 CCTV-14,https://mgtv.ottiptv.cc/mg/624878440.m3u8?token=953330a5dc7cea7b8658e35233c251992ecc99f332b16dc02d445791f114e86e2bf3ddbdaa177ab5b2a848372c8419ffb9172b65c80896ecf39ebe9fdec75927ebb00b23b23220e5bdbbec45c0&tm=1757387428&sign=21ccc92916417627e8a29b611e6918be$订阅源
 CCTV-14,https://cc06.tv12.xyz/15.m3u8$订阅源
-CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135$订阅源
 CCTV-14,https://jzb.wwkejishe.top/?id=592$订阅源
+CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135$订阅源
 CCTV-14,https://smart.pendy.dpdns.org/Smart.php?id=cctv14$订阅源
 CCTV-15,https://mgtv.ottiptv.cc/mg/673168223.m3u8?token=cdf17d551a742294a4e284c6b9185da0e12443cfe9f1f19827a20895be47aa99a254a7e284cd1e3aeea39294fed2990c4daaeab16ca2822f1fdbcfa5d8f4becbc53c2a374279fe633c27d12b7a&tm=1757387428&sign=88a13ab1e00d5bbef980eca1f24793b7$订阅源
 CCTV-15,https://cc06.tv12.xyz/16.m3u8$订阅源
@@ -81,12 +80,12 @@ CCTV-17,https://jzb.wwkejishe.top/?id=594$订阅源
 广东卫视,https://cc06.tv12.xyz/43.m3u8$订阅源
 浙江卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010070$订阅源
 浙江卫视,https://cc06.tv12.xyz/117.m3u8$订阅源
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$订阅源
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$订阅源
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8$订阅源
-浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8$订阅源
-浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8$订阅源
 浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8$订阅源
+浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8$订阅源
+浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8$订阅源
+浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8$订阅源
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$订阅源
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$订阅源
 湖南卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010058$订阅源
 湖南卫视,https://cc06.tv12.xyz/57.m3u8$订阅源
 北京卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010143$订阅源
@@ -95,6 +94,7 @@ CCTV-17,https://jzb.wwkejishe.top/?id=594$订阅源
 湖北卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010057$订阅源
 湖北卫视,https://mgtv.ottiptv.cc/mg/947472496.m3u8?token=e5a0b28e8ae82ad7b9381cefef3a9eeb629d5e452c2dc04ada0083a25525da8d6ae2615dc16cb283b2a4c47e76684dbbf06e9c08e50df6644e468dd757b9fa97fc340e13578f15a444d79895f9&tm=1757387428&sign=856798395c984a5627b9d46e6ee51940$订阅源
 湖北卫视,https://cc06.tv12.xyz/50.m3u8$订阅源
+湖北卫视,https://jzb.wwkejishe.top/?id=604$订阅源
 湖北卫视,https://smart.pendy.dpdns.org/Smart.php?id=hubei$订阅源
 黑龙江卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010056$订阅源
 黑龙江卫视,https://cc06.tv12.xyz/53.m3u8$订阅源
@@ -109,8 +109,8 @@ CCTV-17,https://jzb.wwkejishe.top/?id=594$订阅源
 东方卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010054$订阅源
 东方卫视,https://mgtv.ottiptv.cc/mg/651632648.m3u8?token=776b8048f4bc8d513ab3ea0df3e59c585a3d11e2da00b6c956d09ca4a7283393ff6e1fa169c8d229729ee5f394f0d9625c7ad18933383d6ec04e405a69d5b249c8ffc844644bc54d649917148d&tm=1757387428&sign=25dd6191b2e0068705c5e7bfb4dbb000$订阅源
 东方卫视,https://cc06.tv12.xyz/37.m3u8$订阅源
-东方卫视,https://jzb.wwkejishe.top/?id=597$订阅源
 东方卫视,https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8$订阅源
+东方卫视,https://jzb.wwkejishe.top/?id=597$订阅源
 东南卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010096$订阅源
 东南卫视,https://mgtv.ottiptv.cc/mg/849116810.m3u8?token=a643ff23af93f589560ac459f25c6195eeaea3afd743d1544a33db6953509bcdf2eab8de77b42c65fca34f59c600d0b4b36a103393a5b0d10b77ccee85b3157687bef690b25961fd700d4f56d2&tm=1757387428&sign=14ee721d31c97ab861423edd42edf6d9$订阅源
 东南卫视,https://cc06.tv12.xyz/38.m3u8$订阅源
@@ -134,9 +134,9 @@ CCTV-17,https://jzb.wwkejishe.top/?id=594$订阅源
 海南卫视,https://jzb.wwkejishe.top/?id=600$订阅源
 河北卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010101$订阅源
 河北卫视,https://cc06.tv12.xyz/51.m3u8$订阅源
+河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8$订阅源
+河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8$订阅源
 河北卫视,https://jzb.wwkejishe.top/?id=615$订阅源
-河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8$订阅源
-河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8$订阅源
 河南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226480$订阅源
 河南卫视,https://mgtv.ottiptv.cc/mg/790187291.m3u8?token=d6816f3decc685832bea8e09db0613060a89a851735e009e2baf75da1e831d49c36ad2786adc46c0ba45cc3fb39f01dad804222c726ac2e562462a711c715a0a0df69b542e7504d990defe1824&tm=1757387428&sign=8e15d19b97dab281d948ad925ccd77d2$订阅源
 河南卫视,https://cc06.tv12.xyz/49.m3u8$订阅源
@@ -183,7 +183,7 @@ CCTV-17,https://jzb.wwkejishe.top/?id=594$订阅源
 西藏卫视,http://cc02.tv12.xyz/9.m3u8$订阅源
 新疆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225635$订阅源
 新疆卫视,https://cc06.tv12.xyz/109.m3u8$订阅源
-新疆卫视,https://jzb.wwkejishe.top/?id=623$订阅源
 新疆卫视,http://cc02.tv12.xyz/10.m3u8$订阅源
+新疆卫视,https://jzb.wwkejishe.top/?id=623$订阅源
 云南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226444$订阅源
 云南卫视,https://cc06.tv12.xyz/114.m3u8$订阅源
