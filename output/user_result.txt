@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-01 18:14:49,https://jzb.wwkejishe.top/?id=580$订阅源
+2025-11-03 18:20:22,https://jzb.wwkejishe.top/?id=580$订阅源
 
 📺央视频道,#genre#
 CCTV-3,https://jzb.wwkejishe.top/?id=580$订阅源
@@ -55,12 +55,11 @@ CCTV-17,https://jzb.wwkejishe.top/?id=594$订阅源
 东南卫视,https://mgtv.ottiptv.cc/mg/849116810.m3u8?token=a643ff23af93f589560ac459f25c6195eeaea3afd743d1544a33db6953509bcdf2eab8de77b42c65fca34f59c600d0b4b36a103393a5b0d10b77ccee85b3157687bef690b25961fd700d4f56d2&tm=1757387428&sign=14ee721d31c97ab861423edd42edf6d9$订阅源
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
-东南卫视,https://smart.pendy.dpdns.org/Smart.php?id=fujian$订阅源
-东南卫视,https://smart.pendy.dpdns.org/Smart.php?id=fujian$订阅源
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
 甘肃卫视,https://jzb.wwkejishe.top/?id=622$订阅源
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8$订阅源
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8$订阅源
+广西卫视,https://smart.pendy.dpdns.org/Smart.php?id=guangxi$订阅源
 广西卫视,https://smart.pendy.dpdns.org/Smart.php?id=guangxi$订阅源
 贵州卫视,https://jzb.wwkejishe.top/?id=619$订阅源
 海南卫视,https://mgtv.ottiptv.cc/mg/947472502.m3u8?token=fa6b867c9d3bbe7ddcb8b148eee510b620bb98cc174d5020f4440865dc01f30aa058d88d56e29882e91f66d4974ff231a50f5455a2660540a5b85868e4580559d3b70a84b0f83cf02b15ea4793&tm=1757387428&sign=ac026c3b287e05f7969b64e06f06693e$订阅源
