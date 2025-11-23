@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-21 18:16:04,https://live.chinacert.cftest5.cn/mg/?id=631780532$订阅源
+2025-11-23 18:14:39,https://live.chinacert.cftest5.cn/mg/?id=631780532$订阅源
 
 📺央视频道,#genre#
 CCTV-2,https://live.chinacert.cftest5.cn/mg/?id=631780532$订阅源
@@ -43,8 +43,6 @@ CCTV-17,https://live.chinacert.cftest5.cn/mg/?id=673168256$订阅源
 广东卫视,https://live.chinacert.cftest5.cn/mg/?id=608831231$订阅源
 浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8$订阅源
 浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8$订阅源
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8$订阅源
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8$订阅源
 湖北卫视,https://mgtv.ottiptv.cc/mg/947472496.m3u8?token=e5a0b28e8ae82ad7b9381cefef3a9eeb629d5e452c2dc04ada0083a25525da8d6ae2615dc16cb283b2a4c47e76684dbbf06e9c08e50df6644e468dd757b9fa97fc340e13578f15a444d79895f9&tm=1757387428&sign=856798395c984a5627b9d46e6ee51940$订阅源
 湖北卫视,https://live.chinacert.cftest5.cn/mg/?id=947472496$订阅源
 黑龙江卫视,https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8$订阅源
