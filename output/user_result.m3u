@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/zhmtao/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-12-25 18:17:10
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-12-27 18:15:13
 https://mgtv.ottiptv.cc/mg/624878356.m3u8?token=afe48916b07b879975b99aef80c447d0b867e9e720473054b3c13ababa253922c099a02c093e76e2f86d838fc89789b259edbaa2df42da6e23ed1b7e7b65267f2ebd02b3d7465a7f18af5925c9&tm=1757387428&sign=24939c774ad7694e7fbf24e9ae47f642$订阅源
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="📺央视频道",CCTV-8
 https://mgtv.ottiptv.cc/mg/624878356.m3u8?token=afe48916b07b879975b99aef80c447d0b867e9e720473054b3c13ababa253922c099a02c093e76e2f86d838fc89789b259edbaa2df42da6e23ed1b7e7b65267f2ebd02b3d7465a7f18af5925c9&tm=1757387428&sign=24939c774ad7694e7fbf24e9ae47f642$订阅源
@@ -46,11 +46,11 @@ http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8$订阅源
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="📡卫视频道",湖北卫视
 https://mgtv.ottiptv.cc/mg/947472496.m3u8?token=e5a0b28e8ae82ad7b9381cefef3a9eeb629d5e452c2dc04ada0083a25525da8d6ae2615dc16cb283b2a4c47e76684dbbf06e9c08e50df6644e468dd757b9fa97fc340e13578f15a444d79895f9&tm=1757387428&sign=856798395c984a5627b9d46e6ee51940$订阅源
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
-http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8$订阅源
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
-http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8$订阅源
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
 https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8$订阅源
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
+http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8$订阅源
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
+http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8$订阅源
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="📡卫视频道",东方卫视
 https://mgtv.ottiptv.cc/mg/651632648.m3u8?token=776b8048f4bc8d513ab3ea0df3e59c585a3d11e2da00b6c956d09ca4a7283393ff6e1fa169c8d229729ee5f394f0d9625c7ad18933383d6ec04e405a69d5b249c8ffc844644bc54d649917148d&tm=1757387428&sign=25dd6191b2e0068705c5e7bfb4dbb000$订阅源
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="📡卫视频道",东方卫视
