@@ -1,10 +1,10 @@
-Name: CCTV-4, URL: https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8, From: subscribe, IPv_Type: ipv6, Location: 斯洛伐克, ISP: , Date: None, Delay: 1134 ms, Speed: 0.94 M/s, Resolution: 1280x720
-Name: CCTV-4, URL: https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8, From: subscribe, IPv_Type: ipv6, Location: 斯洛伐克, ISP: , Date: None, Delay: 1134 ms, Speed: 0.94 M/s, Resolution: 1280x720
-Name: CCTV-14, URL: https://event.pull.hebtv.com/jishi/cp2.m3u8, From: subscribe, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: 2873 ms, Speed: 1.00 M/s, Resolution: 1920x1080
-Name: CCTV-14, URL: https://event.pull.hebtv.com/jishi/cp2.m3u8, From: subscribe, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: 2873 ms, Speed: 1.00 M/s, Resolution: 1920x1080
-Name: 广西卫视, URL: https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8, From: subscribe, IPv_Type: ipv6, Location: 中国-江苏-扬州, ISP: 电信, Date: None, Delay: 730 ms, Speed: 2.10 M/s, Resolution: 1920x1080
-Name: 广西卫视, URL: https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8, From: subscribe, IPv_Type: ipv6, Location: 中国-江苏-扬州, ISP: 电信, Date: None, Delay: 730 ms, Speed: 2.10 M/s, Resolution: 1920x1080
-Name: 西藏卫视, URL: http://php.jdshipin.com/xztv.php?id=ws, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 4332 ms, Speed: 0.32 M/s, Resolution: 1920x1080
-Name: 西藏卫视, URL: http://php.jdshipin.com/xztv.php?id=ws, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 4332 ms, Speed: 0.32 M/s, Resolution: 1920x1080
-Name: 新疆卫视, URL: http://php.jdshipin.com/TVOD/hljyd.php?id=3221225635, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 4332 ms, Speed: 0.32 M/s, Resolution: 1920x1080
-Name: 云南卫视, URL: http://php.jdshipin.com/TVOD/hljyd.php?id=3221226444, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 4332 ms, Speed: 0.32 M/s, Resolution: 1920x1080
+Name: CCTV-4, URL: https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8, From: subscribe, IPv_Type: ipv6, Location: 斯洛伐克, ISP: , Date: None, Delay: 1309 ms, Speed: 0.83 M/s, Resolution: 1280x720
+Name: CCTV-4, URL: https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8, From: subscribe, IPv_Type: ipv6, Location: 斯洛伐克, ISP: , Date: None, Delay: 1309 ms, Speed: 0.83 M/s, Resolution: 1280x720
+Name: CCTV-14, URL: https://event.pull.hebtv.com/jishi/cp2.m3u8, From: subscribe, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: 2952 ms, Speed: 0.97 M/s, Resolution: 1920x1080
+Name: CCTV-14, URL: https://event.pull.hebtv.com/jishi/cp2.m3u8, From: subscribe, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: 2952 ms, Speed: 0.97 M/s, Resolution: 1920x1080
+Name: 广西卫视, URL: https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8, From: subscribe, IPv_Type: ipv6, Location: 中国-江苏-扬州, ISP: 电信, Date: None, Delay: 765 ms, Speed: 2.48 M/s, Resolution: 1920x1080
+Name: 广西卫视, URL: https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8, From: subscribe, IPv_Type: ipv6, Location: 中国-江苏-扬州, ISP: 电信, Date: None, Delay: 765 ms, Speed: 2.48 M/s, Resolution: 1920x1080
+Name: 西藏卫视, URL: http://php.jdshipin.com/xztv.php?id=ws, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 2160 ms, Speed: 0.47 M/s, Resolution: 1920x1080
+Name: 西藏卫视, URL: http://php.jdshipin.com/xztv.php?id=ws, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 2160 ms, Speed: 0.47 M/s, Resolution: 1920x1080
+Name: 新疆卫视, URL: http://php.jdshipin.com/TVOD/hljyd.php?id=3221225635, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 2160 ms, Speed: 0.47 M/s, Resolution: 1920x1080
+Name: 云南卫视, URL: http://php.jdshipin.com/TVOD/hljyd.php?id=3221226444, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 2160 ms, Speed: 0.47 M/s, Resolution: 1920x1080
