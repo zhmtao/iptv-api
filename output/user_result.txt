@@ -1,9 +1,8 @@
 🕘️更新时间,#genre#
-2026-09-25 22:54:49,http://t.061899.xyz/tl/tl.php?id=cctv1$订阅源
+2026-09-27 22:55:44,http://t.061899.xyz/tl/tl.php?id=cctv2$订阅源
 
 📺央视频道,#genre#
-CCTV-1,http://t.061899.xyz/tl/tl.php?id=cctv1$订阅源
-CCTV-1,http://t.061899.xyz/tl/tl.php?id=cctv1$订阅源
+CCTV-2,http://t.061899.xyz/tl/tl.php?id=cctv2$订阅源
 CCTV-2,http://t.061899.xyz/tl/tl.php?id=cctv2$订阅源
 CCTV-3,http://t.061899.xyz/tl/tl.php?id=cctv3$订阅源
 CCTV-4,http://t.061899.xyz/tl/tl.php?id=cctv4$订阅源
@@ -17,9 +16,9 @@ CCTV-10,http://t.061899.xyz/tl/tl.php?id=cctv10$订阅源
 CCTV-11,http://t.061899.xyz/tl/tl.php?id=cctv11$订阅源
 CCTV-12,http://t.061899.xyz/tl/tl.php?id=cctv12$订阅源
 CCTV-13,http://t.061899.xyz/tl/tl.php?id=cctv13$订阅源
-CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
-CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 CCTV-14,http://t.061899.xyz/tl/tl.php?id=cctv14$订阅源
+CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
+CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 CCTV-15,http://t.061899.xyz/tl/tl.php?id=cctv15$订阅源
 CCTV-16,http://t.061899.xyz/tl/tl.php?id=cctv16$订阅源
 CCTV-17,http://t.061899.xyz/tl/tl.php?id=cctv17$订阅源
@@ -55,16 +54,16 @@ CCTV-17,http://t.061899.xyz/tl/tl.php?id=cctv17$订阅源
 辽宁卫视,http://t.061899.xyz/tl/tl.php?id=lnws$订阅源
 内蒙古卫视,http://t.061899.xyz/tl/tl.php?id=nmws$订阅源
 宁夏卫视,http://t.061899.xyz/tl/tl.php?id=nxws$订阅源
-青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8$订阅源
-青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8$订阅源
 青海卫视,http://t.061899.xyz/tl/tl.php?id=qhws$订阅源
+青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8$订阅源
+青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8$订阅源
 山东卫视,http://go.bkpcp.top/mg/sdws$订阅源
 山东卫视,http://t.061899.xyz/tl/tl.php?id=sdws$订阅源
 陕西卫视,http://go.bkpcp.top/mg/sxws$订阅源
 陕西卫视,http://t.061899.xyz/tl/tl.php?id=sxws$订阅源
-西藏卫视,http://php.jdshipin.com/xztv.php?id=ws$订阅源
-西藏卫视,http://php.jdshipin.com/xztv.php?id=ws$订阅源
 西藏卫视,http://t.061899.xyz/tl/tl.php?id=xzws$订阅源
+西藏卫视,http://php.jdshipin.com/xztv.php?id=ws$订阅源
+西藏卫视,http://php.jdshipin.com/xztv.php?id=ws$订阅源
 新疆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225635$订阅源
-云南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226444$订阅源
 云南卫视,http://t.061899.xyz/tl/tl.php?id=ynws$订阅源
+云南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226444$订阅源
