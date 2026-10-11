@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-10 00:44:44,http://t.061899.xyz/tl/tl.php?id=cctv2$订阅源
+2026-10-12 00:05:23,http://t.061899.xyz/tl/tl.php?id=cctv2$订阅源
 
 📺央视频道,#genre#
 CCTV-2,http://t.061899.xyz/tl/tl.php?id=cctv2$订阅源
