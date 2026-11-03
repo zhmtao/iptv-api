@@ -1,9 +1,7 @@
-Name: 河南卫视, URL: http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=21d2493958d370d291683525d62b50ee&wsTime=1793505875, From: subscribe, IPv_Type: ipv6, Location: 加拿大, ISP: , Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 陕西卫视, URL: http://fn.gcl.de5.net:5908/gsh950428/738910838, From: subscribe, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-16, URL: https://stream1.freetv.fun/3fa27f5bf8136b49f28d477a805f1219c588cf21ffbada685497c73431d20c6e.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 西藏卫视, URL: https://iptv.catvod.com/live.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 云南卫视, URL: http://php.jdshipin.com/TVOD/hljyd.php?id=3221226444, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: 江西卫视, URL: http://go.bkpcp.top/mg/jxws, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-5+, URL: https://php.jdshipin.com/TVOD/iptv.php, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 129 ms, Speed: 12.98 M/s, Resolution: 1280x720
-Name: CCTV-9, URL: http://t.061899.xyz/tl/tl.php?id=cctv9, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-14, URL: https://event.pull.hebtv.com/jishi/cp2.m3u8, From: subscribe, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: 3020 ms, Speed: 1.21 M/s, Resolution: 1920x1080
+Name: 三沙卫视, URL: http://fn.gcl.de5.net:5908/gsh950428/961023778, From: subscribe, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-16, URL: https://stream1.freetv.fun/f5e0459fd9f11d93ac18af88196997db1c71aeb6d27ce1bd24faccb628652629.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 新疆卫视, URL: https://iptv.catvod.com/live.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86%E5%8F%B0, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-14, URL: https://event.pull.hebtv.com/jishi/cp2.m3u8, From: subscribe, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: 1559 ms, Speed: 1.89 M/s, Resolution: 1920x1080
+Name: 山东卫视, URL: http://go.bkpcp.top/mg/sdws, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 424 ms, Speed: 4.67 M/s, Resolution: 1920x1080
+Name: CCTV-10, URL: http://t.061899.xyz/tl/tl.php?id=cctv10, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 469 ms, Speed: 4.70 M/s, Resolution: 1920x1080
+Name: CCTV-5+, URL: https://php.jdshipin.com/TVOD/iptv.php, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: 1280x720

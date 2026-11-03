@@ -1,4 +1,36 @@
-Name: CCTV-5+, URL: https://php.jdshipin.com/TVOD/iptv.php, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 129 ms, Speed: 12.98 M/s, Resolution: 1280x720
-Name: CCTV-5+, URL: https://php.jdshipin.com/TVOD/iptv.php, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 129 ms, Speed: 12.98 M/s, Resolution: 1280x720
-Name: CCTV-14, URL: https://event.pull.hebtv.com/jishi/cp2.m3u8, From: subscribe, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: 3020 ms, Speed: 1.21 M/s, Resolution: 1920x1080
-Name: CCTV-14, URL: https://event.pull.hebtv.com/jishi/cp2.m3u8, From: subscribe, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: 3020 ms, Speed: 1.21 M/s, Resolution: 1920x1080
+Name: CCTV-10, URL: http://t.061899.xyz/tl/tl.php?id=cctv10, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 469 ms, Speed: 4.70 M/s, Resolution: 1920x1080
+Name: CCTV-10, URL: http://t.061899.xyz/tl/tl.php?id=cctv10, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 469 ms, Speed: 4.70 M/s, Resolution: 1920x1080
+Name: CCTV-11, URL: http://t.061899.xyz/tl/tl.php?id=cctv11, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 469 ms, Speed: 4.70 M/s, Resolution: 1920x1080
+Name: CCTV-12, URL: http://t.061899.xyz/tl/tl.php?id=cctv12, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 469 ms, Speed: 4.70 M/s, Resolution: 1920x1080
+Name: CCTV-13, URL: http://t.061899.xyz/tl/tl.php?id=cctv13, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 469 ms, Speed: 4.70 M/s, Resolution: 1920x1080
+Name: CCTV-14, URL: http://t.061899.xyz/tl/tl.php?id=cctv14, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 469 ms, Speed: 4.70 M/s, Resolution: 1920x1080
+Name: CCTV-14, URL: https://event.pull.hebtv.com/jishi/cp2.m3u8, From: subscribe, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: 1559 ms, Speed: 1.89 M/s, Resolution: 1920x1080
+Name: CCTV-14, URL: https://event.pull.hebtv.com/jishi/cp2.m3u8, From: subscribe, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: 1559 ms, Speed: 1.89 M/s, Resolution: 1920x1080
+Name: CCTV-15, URL: http://t.061899.xyz/tl/tl.php?id=cctv15, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 469 ms, Speed: 4.70 M/s, Resolution: 1920x1080
+Name: CCTV-16, URL: http://t.061899.xyz/tl/tl.php?id=cctv16, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 469 ms, Speed: 4.70 M/s, Resolution: 1920x1080
+Name: CCTV-17, URL: http://t.061899.xyz/tl/tl.php?id=cctv17, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 469 ms, Speed: 4.70 M/s, Resolution: 1920x1080
+Name: 广东卫视, URL: http://t.061899.xyz/tl/tl.php?id=gdws, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 469 ms, Speed: 4.70 M/s, Resolution: 1920x1080
+Name: 湖南卫视, URL: http://t.061899.xyz/tl/tl.php?id=hunws, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 469 ms, Speed: 4.70 M/s, Resolution: 1920x1080
+Name: 湖北卫视, URL: http://t.061899.xyz/tl/tl.php?id=hubws, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 469 ms, Speed: 4.70 M/s, Resolution: 1920x1080
+Name: 重庆卫视, URL: http://t.061899.xyz/tl/tl.php?id=cqws, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 469 ms, Speed: 4.70 M/s, Resolution: 1920x1080
+Name: 东方卫视, URL: http://t.061899.xyz/tl/tl.php?id=dfws, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 469 ms, Speed: 4.70 M/s, Resolution: 1920x1080
+Name: 东南卫视, URL: http://t.061899.xyz/tl/tl.php?id=dnws, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 469 ms, Speed: 4.70 M/s, Resolution: 1920x1080
+Name: 甘肃卫视, URL: http://t.061899.xyz/tl/tl.php?id=gsws, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 469 ms, Speed: 4.70 M/s, Resolution: 1920x1080
+Name: 广西卫视, URL: http://t.061899.xyz/tl/tl.php?id=gxws, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 469 ms, Speed: 4.70 M/s, Resolution: 1920x1080
+Name: 贵州卫视, URL: http://t.061899.xyz/tl/tl.php?id=gzws, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 469 ms, Speed: 4.70 M/s, Resolution: 1920x1080
+Name: 海南卫视, URL: http://t.061899.xyz/tl/tl.php?id=hinws, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 469 ms, Speed: 4.70 M/s, Resolution: 1920x1080
+Name: 河南卫视, URL: http://t.061899.xyz/tl/tl.php?id=hnws, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 469 ms, Speed: 4.70 M/s, Resolution: 1920x1080
+Name: 吉林卫视, URL: http://t.061899.xyz/tl/tl.php?id=jlws, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 469 ms, Speed: 4.70 M/s, Resolution: 1920x1080
+Name: 江苏卫视, URL: http://t.061899.xyz/tl/tl.php?id=jsws, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 469 ms, Speed: 4.70 M/s, Resolution: 1920x1080
+Name: 江西卫视, URL: http://t.061899.xyz/tl/tl.php?id=jxws, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 469 ms, Speed: 4.70 M/s, Resolution: 1920x1080
+Name: 辽宁卫视, URL: http://t.061899.xyz/tl/tl.php?id=lnws, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 469 ms, Speed: 4.70 M/s, Resolution: 1920x1080
+Name: 内蒙古卫视, URL: http://t.061899.xyz/tl/tl.php?id=nmws, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 469 ms, Speed: 4.70 M/s, Resolution: 1920x1080
+Name: 宁夏卫视, URL: http://t.061899.xyz/tl/tl.php?id=nxws, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 469 ms, Speed: 4.70 M/s, Resolution: 1920x1080
+Name: 青海卫视, URL: http://t.061899.xyz/tl/tl.php?id=qhws, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 469 ms, Speed: 4.70 M/s, Resolution: 1920x1080
+Name: 山东卫视, URL: http://t.061899.xyz/tl/tl.php?id=sdws, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 469 ms, Speed: 4.70 M/s, Resolution: 1920x1080
+Name: 山东卫视, URL: http://go.bkpcp.top/mg/sdws, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 424 ms, Speed: 4.67 M/s, Resolution: 1920x1080
+Name: 山东卫视, URL: http://go.bkpcp.top/mg/sdws, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 424 ms, Speed: 4.67 M/s, Resolution: 1920x1080
+Name: 陕西卫视, URL: http://t.061899.xyz/tl/tl.php?id=sxws, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 469 ms, Speed: 4.70 M/s, Resolution: 1920x1080
+Name: 陕西卫视, URL: http://go.bkpcp.top/mg/sxws, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 424 ms, Speed: 4.67 M/s, Resolution: 1920x1080
+Name: 西藏卫视, URL: http://t.061899.xyz/tl/tl.php?id=xzws, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 469 ms, Speed: 4.70 M/s, Resolution: 1920x1080
+Name: 云南卫视, URL: http://t.061899.xyz/tl/tl.php?id=ynws, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 469 ms, Speed: 4.70 M/s, Resolution: 1920x1080
