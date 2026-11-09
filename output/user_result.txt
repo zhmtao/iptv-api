@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-08 00:00:40,http://t.061899.xyz/tl/tl.php?id=cctv11$订阅源
+2026-11-10 04:19:22,http://t.061899.xyz/tl/tl.php?id=cctv11$订阅源
 
 📺央视频道,#genre#
 CCTV-11,http://t.061899.xyz/tl/tl.php?id=cctv11$订阅源
@@ -24,8 +24,6 @@ CCTV-17,http://t.061899.xyz/tl/tl.php?id=cctv17$订阅源
 广西卫视,http://t.061899.xyz/tl/tl.php?id=gxws$订阅源
 贵州卫视,http://t.061899.xyz/tl/tl.php?id=gzws$订阅源
 海南卫视,http://t.061899.xyz/tl/tl.php?id=hinws$订阅源
-河北卫视,https://ysp.lml1971.ccwu.cc/hb_hebeiweishi/playlist.m3u8$订阅源
-河北卫视,https://ysp.lml1971.ccwu.cc/hb_hebeiweishi/playlist.m3u8$订阅源
 河南卫视,http://t.061899.xyz/tl/tl.php?id=hnws$订阅源
 吉林卫视,http://t.061899.xyz/tl/tl.php?id=jlws$订阅源
 江苏卫视,http://t.061899.xyz/tl/tl.php?id=jsws$订阅源
@@ -35,8 +33,8 @@ CCTV-17,http://t.061899.xyz/tl/tl.php?id=cctv17$订阅源
 宁夏卫视,http://t.061899.xyz/tl/tl.php?id=nxws$订阅源
 青海卫视,http://t.061899.xyz/tl/tl.php?id=qhws$订阅源
 山东卫视,http://t.061899.xyz/tl/tl.php?id=sdws$订阅源
-陕西卫视,http://go.bkpcp.top/mg/sxws$订阅源
-陕西卫视,http://go.bkpcp.top/mg/sxws$订阅源
 陕西卫视,http://t.061899.xyz/tl/tl.php?id=sxws$订阅源
+陕西卫视,http://go.bkpcp.top/mg/sxws$订阅源
+陕西卫视,http://go.bkpcp.top/mg/sxws$订阅源
 西藏卫视,http://t.061899.xyz/tl/tl.php?id=xzws$订阅源
 云南卫视,http://t.061899.xyz/tl/tl.php?id=ynws$订阅源

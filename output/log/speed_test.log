@@ -1,5 +1,5 @@
-Name: CCTV-17, URL: https://stream1.freetv.fun/b6866815f985fb51d1a8c195ef73afbd858d740c62358e35b9f665896b40dd91.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: CCTV-11, URL: http://t.061899.xyz/tl/tl.php?id=cctv11, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 124 ms, Speed: 11.35 M/s, Resolution: 1920x1080
-Name: 陕西卫视, URL: http://go.bkpcp.top/mg/sxws, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 115 ms, Speed: 11.56 M/s, Resolution: 1920x1080
-Name: CCTV-14, URL: https://event.pull.hebtv.com/jishi/cp2.m3u8, From: subscribe, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: 2237 ms, Speed: 1.33 M/s, Resolution: 1920x1080
-Name: 河北卫视, URL: https://ysp.lml1971.ccwu.cc/hb_hebeiweishi/playlist.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 1891 ms, Speed: 0.65 M/s, Resolution: 960x540
+Name: 河南卫视, URL: http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=731e5824269635ef62bb4a49086d83e0&wsTime=1794200610, From: subscribe, IPv_Type: ipv6, Location: 加拿大, ISP: , Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: CCTV-17, URL: https://stream1.freetv.fun/449874b3e1a98f0960a43b24a6c3625aa31c794fb9efcddc8c782a9566e84553.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-11, URL: http://t.061899.xyz/tl/tl.php?id=cctv11, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 257 ms, Speed: 6.71 M/s, Resolution: 1920x1080
+Name: 陕西卫视, URL: http://go.bkpcp.top/mg/sxws, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 270 ms, Speed: 6.60 M/s, Resolution: 1920x1080
+Name: CCTV-14, URL: https://event.pull.hebtv.com/jishi/cp2.m3u8, From: subscribe, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: 2246 ms, Speed: 1.26 M/s, Resolution: 1920x1080
