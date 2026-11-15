@@ -1,3 +1,4 @@
-Name: CCTV-17, URL: https://stream1.freetv.fun/e70da46c7c0d4f2fff20967d48a6b0da3683e291d0b9a54b8bd22f36f2c46c4e.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: 1920x1080
-Name: CCTV-12, URL: http://t.061899.xyz/tl/tl.php?id=cctv12, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-14, URL: https://event.pull.hebtv.com/jishi/cp2.m3u8, From: subscribe, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: 2778 ms, Speed: 1.14 M/s, Resolution: 1920x1080
+Name: CCTV-17, URL: https://stream1.freetv.fun/1316eecb8e0b4da4df15c1027663095f3479ac52479f8c8605da5c1509555414.m3u8, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: CCTV-13, URL: http://t.061899.xyz/tl/tl.php?id=cctv13, From: subscribe, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
+Name: 甘肃卫视, URL: https://live.gstv.com.cn/live/oxfhvoy.m3u8, From: subscribe, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: 1217 ms, Speed: 0.38 M/s, Resolution: 1280x720
+Name: CCTV-14, URL: https://event.pull.hebtv.com/jishi/cp2.m3u8, From: subscribe, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: 4424 ms, Speed: 1.07 M/s, Resolution: 1920x1080
